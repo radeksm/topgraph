@@ -1,4 +1,4 @@
-Why topgrapg?
+Why topgraph?
 =============
 
   Topgrapg is a small utility written in ruby to parse output from Linux top
